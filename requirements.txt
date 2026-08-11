@@ -1,0 +1,25 @@
+# --- Data manipulation ---
+pandas
+numpy
+
+# --- Requêtes HTTP / météo ---
+requests
+
+# --- Scraping ---
+selenium
+
+# --- AWS (S3) ---
+boto3
+
+# --- Base de données (RDS PostgreSQL) ---
+sqlalchemy>=2.0.0
+psycopg2-binary
+
+# --- Visualisation ---
+plotly
+
+# --- Configuration / secrets ---
+python-dotenv
+
+# --- Notebook ---
+jupyter
